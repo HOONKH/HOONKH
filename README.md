@@ -1,6 +1,6 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=purple&height=200)
 
-<div align="center">안녕! I'm going to start studing!</div>;
+<div align="center">안녕! I'm going to start studing!</div>
 </br>
 </br>
 
